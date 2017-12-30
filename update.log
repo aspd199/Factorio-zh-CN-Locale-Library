@@ -1,5 +1,11 @@
 locale zh-CN update log
 
+2017-12-30   0.16.1
+add:    建立github库
+upd:    更改文本库版本号以对应游戏版本
+add:    增加说明文本README.md
+add:    增加协议文件LICENSE
+
 2017-12-14   7.1.353
 del:    删除了AnonyMods的汉化文本
 
