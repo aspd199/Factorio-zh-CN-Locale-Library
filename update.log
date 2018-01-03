@@ -1,5 +1,8 @@
 locale zh-CN update log
 
+2018-1-3   0.16.3
+fix:    修正了angelspetrochem_0.7.3的汉化文本（来源：QQ460940944）
+
 2018-1-3   0.16.2
 add:    增加10个mod的汉化文本（来源：汉化提交）
 upd:    更新47个mod的汉化文本（来源：汉化提交）
