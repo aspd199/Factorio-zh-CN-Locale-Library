@@ -1,6 +1,11 @@
 locale zh-CN update log
 
-2018-1-3   0.16.3
+2018-1-15   0.16.5
+upd:    更新angelsrefining_0.9.7的汉化文本
+upd:    更新angelsbioprocessing_0.5.1的汉化文本
+upd:    更新FARL_2.0.1的汉化文本（来源：汉化提交）
+
+2018-1-6   0.16.4
 add:    增加了Blueprint_Flip_Turn的汉化文本
 
 2018-1-3   0.16.3
