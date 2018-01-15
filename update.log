@@ -1,5 +1,9 @@
 locale zh-CN update log
 
+2018-1-15   0.16.7
+add:    增加7个mod的汉化文本（来源：汉化提交）
+fix:    修整了Robot_Battery_Research_0.1.0的汉化文本（来源：汉化提交）
+
 2018-1-15   0.16.6
 del:    删除FARL_1.0.4的汉化文本
 
