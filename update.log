@@ -1,5 +1,9 @@
 locale zh-CN update log
 
+2018-1-26   0.16.8
+add:    增加4个mod的汉化文本（来源：QQ20705370）
+add:    增加mod列表926个模组中文名称和描述
+
 2018-1-15   0.16.7
 add:    增加7个mod的汉化文本（来源：汉化提交）
 fix:    修整了Robot_Battery_Research_0.1.0的汉化文本（来源：汉化提交）
