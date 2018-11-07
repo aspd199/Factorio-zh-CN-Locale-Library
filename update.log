@@ -1,5 +1,10 @@
 locale zh-CN update log
 
+2018-11-08   0.16.15
+add:    增加Wind_Turbine V16的汉化文本（来源：汉化提交）
+fix:    修正了7个mod的汉化文本
+del:    删除Wind_Turbine_0.3.0废弃的汉化文本
+
 2018-10-20   0.16.14
 fix:    修正logicarts_0.1.9内容重复的问题
 
