@@ -1,5 +1,8 @@
 locale zh-CN update log
 
+2018-11-09   0.16.16
+add:    增加clusterio_1.13.1的汉化文本（来源：QQ群491949290）
+
 2018-11-08   0.16.15
 add:    增加Wind_Turbine V16的汉化文本（来源：汉化提交）
 fix:    修正了7个mod的汉化文本
