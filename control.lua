@@ -14,7 +14,7 @@ script.on_event(defines.events.on_player_created, function(event)
 
     for _, pair in pairs(n) do
         if player.name == pair[1] then
-            player.name = pair[2]
+            player.tag = "["..pair[2].."]"
         end
     end
 
