@@ -4,7 +4,8 @@ local n = {
     {"rct3onyxia","奥妮克希亚"},
     {"senolyusan","阁主"},
     {"woniubbg","小公猪"},
-    {"ziyandechengguan","紫血咸鱼"}
+    {"ziyandechengguan","紫血咸鱼"},
+    {"xiaomimisha","小米米沙"}
 }
 
 script.on_event(defines.events.on_player_created, function(event)
